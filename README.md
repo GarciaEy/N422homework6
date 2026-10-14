@@ -2,4 +2,4 @@
 
 ## live link: https://n422petadoptioncenter.netlify.app/
 
-<!-- im having issues with seeing my site but im not familiar with netify -->
+im having issues with seeing my site but im not familiar with netflify
